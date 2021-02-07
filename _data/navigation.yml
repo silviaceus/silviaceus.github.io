@@ -1,0 +1,18 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: Racconti
+  url: /categorie/racconti/
+- title: Tags
+  url: /tags/
+# - title: About
+#   url: /about/
+# - title: Categories
+#   url: /categories/
+# - title: Recipes
+#   url: /recipes/
+# - title: Search
+#   url: /search/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
