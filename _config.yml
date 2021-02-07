@@ -3,7 +3,7 @@ skin: "assets/css/skins/light.css"
 locale: it-IT
 title: "Silviaceus"
 description: ""
-logo: "/images/theta.png"
+logo: "/images/S.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -69,10 +69,10 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Silvia Miotti
   picture:
-  email: 
-  twitter:
+  email: silvimiotti@gmail.com
+  twitter: Silviaceus
   links:
     - title:
       url:
@@ -80,6 +80,15 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/Silviaceus
+    icon: fab fa-twitter
+  - title: Facebook
+    url: https://www.facebook.com/silvia.miotti/
+    icon: fab fa-facebook
+  - title: Instagram
+    url: https://www.instagram.com/silviaceus/
+    icon: fab fa-instagram
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
